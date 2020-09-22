@@ -1,0 +1,18 @@
+
+   
+ VARIABLE DESCRIPTION: 
+ 
+  
+ · age: age of primary beneficiary
+ 
+ · sex: insurance contractor gender, female, male
+ 
+ · bmi: Body mass index, providing an understanding of body, weights that high or low relative to height, objective index of body weight (kg / are relatively of height to weight, ideally 18.5 to 24.9
+ 
+ · children: Number of children covered by health insurance / Number of dependents
+ 
+ · smoker: Smoking
+ 
+ · region: the beneficiary's residential area in the US, northeast, southeast, northwest ,southwest,
+ 
+ · charges: Individual medical costs billed by health insurance (Target Variable)"
